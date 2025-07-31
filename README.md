@@ -39,7 +39,7 @@ Here are a few cool things I’ve worked on:
 
 ### 📫 How to reach me
 
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/somesh-y-390843278)])
+- 🔗 [LinkedIn] ([(https://www.linkedin.com/in/somesh-y-390843278)])
 - ✉️ someshyallapur18@gmail.com
 - 
 
