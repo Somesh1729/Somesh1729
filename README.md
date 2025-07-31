@@ -39,9 +39,9 @@ Here are a few cool things I’ve worked on:
 
 ### 📫 How to reach me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- ✉️ somesh@email.com
-- 🌐 Portfolio: [somesh.dev](https://your-portfolio-link.com) *(replace with your site if hosted)*
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/somesh-y-390843278))
+- ✉️ someshyallapur18@gmail.com
+- 
 
 ---
 
