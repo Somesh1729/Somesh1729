@@ -1,6 +1,6 @@
 ### Hi there, I'm Somesh 👋
 
-🎓 I'm a 4th-year Artificial Intelligence and Machine Learning student passionate about building intelligent, user-friendly, and impactful software.
+🎓 I'm a 4th-year Artificial Intelligence and Machine Learning student with a 9.27 CGPA, passionate about building intelligent, user-friendly, and impactful software.
 
 ---
 
