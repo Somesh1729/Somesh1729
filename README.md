@@ -29,7 +29,6 @@
 Here are a few cool things I’ve worked on:
 
 - 💬 **AI Teacher Assistant** – Multimodal AI-based voice/video teaching tool
-- 🌦️ **Karnataka Weather App** – Regional weather forecast app with real-time updates
 - 🧬 **Biomedical Speech Transcription** – Deep learning-based system to transcribe & process medical speech
 - 🛠️ **Developer Booking Platform** – Real-time freelance developer booking system with crypto payments
 
