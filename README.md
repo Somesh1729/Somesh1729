@@ -6,7 +6,7 @@
 
 ###  About Me
 
--  Currently working on: **AI-based teaching tools** & **Voice transcription projects**
+-  Currently working on: **Generative AI**, **RAG**, **Agentic AI**, **Backend Architectures**, **System design**.
 -  Learning: Advanced **React**, **AI/ML**, **Cloud Integration**, and **System Design**
 -  Ask me about: **Full-stack Development**, **AI Integration**, **React**, **Node.js**, **Python**, **Firebase**, and **APIs**
 -  Career Goals: Become a **Full-stack AI Engineer** and work on cutting-edge tech products
@@ -31,6 +31,7 @@ Here are a few cool things I’ve worked on:
 - 💬 **AI Teacher Assistant** – Multimodal AI-based voice/video teaching tool
 - 🧬 **Biomedical Speech Transcription** – Deep learning-based system to transcribe & process medical speech
 - 🛠️ **Developer Booking Platform** – Real-time freelance developer booking system with crypto payments
+-   **AI Agent Evaluation** - Evaluates the accuracy and efficiency of the AI agents
 
 > 📌 Check out the pinned repositories below for details!
 
